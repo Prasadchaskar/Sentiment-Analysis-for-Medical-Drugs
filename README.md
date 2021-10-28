@@ -1,1 +1,1 @@
-# Sentiment-Analysis-on-Medical-Drugs
+# Sentiment-Analysis-for-Medical-Drugs
